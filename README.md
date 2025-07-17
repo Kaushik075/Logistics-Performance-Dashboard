@@ -90,3 +90,6 @@ This dashboard is built on **Power BI** using DAX, AI , custom visuals, slicers,
 
 ## OUTPUT ##
 
+<img width="1277" height="730" alt="Image" src="https://github.com/user-attachments/assets/cc2515bc-c7ff-495c-a9c2-c90a1c78e8fc" />
+<img width="1277" height="726" alt="Image" src="https://github.com/user-attachments/assets/02707a11-959e-4d9a-bac6-c5d84b0d0715" />
+<img width="1277" height="727" alt="Image" src="https://github.com/user-attachments/assets/f5d2ba3a-f4b3-4413-8a29-574d2dfd7ca5" />
