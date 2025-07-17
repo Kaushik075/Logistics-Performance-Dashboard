@@ -10,7 +10,7 @@ An interactive Power BI dashboard designed to analyze and visualize logistics KP
 - 🗺️ **Interactive Map**: Order distribution by Indian states with auto-zoom and highlight on selection.
 - 📈 **Monthly Trend Analysis**: Combo chart with bar (orders) and line (growth %) to track monthly performance.
 - 🌡️ **Heatmap**: Shipping Mode vs Month volume matrix showing high-to-low traffic intensity using color scales.
-- 🍩 **Pie Chart**: Revenue distribution by Product Category with tooltip breakdown.
+- 🍩 **Pie Chart**: Revenue distribution by Product Category with tooltip breakdown. 
 - 📦 **Top Performing States**: Bar chart showing top 3 contributors based on order volume.
 - 🔍 **Filters**: 
   - **StateName Slicer** for region-wise analysis
